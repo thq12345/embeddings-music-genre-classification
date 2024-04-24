@@ -6,8 +6,10 @@ This research explores the potential of using Sentence BERT embeddings for class
 ## About the Dataset
 The dataset titled "57,650 Spotify Songs" is from Kaggle. It contains 57,651 rows and 4 columns, named 'artist', 'song', 'link', and 'text'. All columns are of string type. It offers a comprehensive collection of Spotify song data, including the artist's name, song title, a link to the song's lyrics, and the lyrics text itself. This dataset is designed for analysis and could be used in various projects related to music, lyrics analysis, and natural language processing tasks. While the author of this dataset did not specify data extraction process (song selection criteria etc.), it's safe to assume all the data are extracted from Spotify.
 
+More information about the dataset is available in the .pdf file (Paper).
+
 ## Code Execution
-Please refer to jupyter notebook in the repository, simply clone the repository and execute all the code in the notebook. The code pull data from dataset and Spotify Web API, process it, then train machine learning models using the cleaned data and provide visualizations.
+Please refer to jupyter notebook in the repository, simply clone the repository and execute all the code in the notebook. In general, the code pull data from dataset and Spotify Web API, process it, then train machine learning models using the cleaned data and provide visualizations. More code comments are available in the notebook.
 
 ## Link to Paper
 Please refer to the .pdf file for the detailed research paper associated with the jupyter notebook.
